@@ -3,7 +3,7 @@
 Мы – команда **YamkaTV**, создаём удобную платформу для любителей аниме 🎥.
 
 ## 🚀 Что мы делаем:
-- 🌐 Frontend: React + Vite + Tailwind + PWA
+- 🌐 Frontend: React + Vite + PWA
 - 🧠 Backend: FastAPI + MySQL
 - 🔍 SEO: sitemap.xml, robots.txt, генерация мета-данных
 - ⚙️ CI/CD и автообновления
